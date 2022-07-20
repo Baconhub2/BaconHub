@@ -1,0 +1,2 @@
+# BaconHub
+A bacon hub
